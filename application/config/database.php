@@ -82,7 +82,7 @@ $db['default'] = array(
                 )
               )',
 	'hostname' => '',
-	'username' => 'system',
+	'username' => 'HR',
 	'password' => 'apolo142857',
 	'database' => '',
 	'dbdriver' => 'oci8',
